@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "Starten";
+"welcomeviewcontroller.subtitle" = "Verlieren Sie nie wieder Ihren Parkplatz.";
+"tabbarcontroller.home" = "Startseite";
+"tabbarcontroller.history" = "Verlauf";
+"homeviewcontroller.title"="Willkommen bei ParkEasy!";
+"homeviewcontroller.subtitle"="Finden Sie Ihr geparktes Auto mühelos.";
+"homeviewcontroller.newparkingtitle"="Neuen Parkplatz hinzufügen";
+"homeviewcontroller.newparkingsubtitle"= "Verfolgen Sie Ihren Parkverlauf.";
+"homeviewcontroller.newparkingbutton"="Parkplatz hinzufügen";
+"homeviewcontroller.lastparked"= "Zuletzt geparkter Ort";
+"homeviewcontroller.lastparkedlocation"="Ortsname";
+"homeviewcontroller.lastparkedlocationdetail"="Ortsdetails";
+"homeviewcontroller.viewdetails"="Details anzeigen";
+"homeviewcontroller.parkduration"="Parkdauer";
+"homeviewcontroller.durationformat"="%02dt %02ds %02dm";
+"addparkingviewcontroller.title"="Neuen Parkplatz hinzufügen";
+"addparkingviewcontroller.name"="Parkplatzname";
+"addparkingviewcontroller.detail"="Parkplatzdetails";
+"addparkingviewcontroller.detailtitlelabel"="Ortsdetails festlegen";
+"addparkingviewcontroller.phototitlelabel"="Parkplatzfoto hinzufügen";
+"addparkingviewcontroller.savebutton"="Parkplatz speichern";
+"addparkingviewcontroller.warninglabel"="Dieses Feld darf nicht leer sein!";
+"historyviewcontroller.title"="Neueste Parkbereiche";
+"parkdetailviewcontroller.button"="Wegbeschreibung";
+"navigationviewcontroller.button"="Fertig";
+

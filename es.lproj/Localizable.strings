@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "Comenzar";
+"welcomeviewcontroller.subtitle" = "Nunca vuelvas a perder tu lugar de estacionamiento.";
+"tabbarcontroller.home" = "Inicio";
+"tabbarcontroller.history" = "Historial";
+"homeviewcontroller.title"="¡Bienvenido a ParkEasy!";
+"homeviewcontroller.subtitle"="Encuentra tu coche estacionado fácilmente.";
+"homeviewcontroller.newparkingtitle"="Agregar una nueva ubicación de estacionamiento";
+"homeviewcontroller.newparkingsubtitle"= "Sigue tu historial de estacionamiento.";
+"homeviewcontroller.newparkingbutton"="Agregar estacionamiento";
+"homeviewcontroller.lastparked"= "Último lugar estacionado";
+"homeviewcontroller.lastparkedlocation"="Nombre de la ubicación";
+"homeviewcontroller.lastparkedlocationdetail"="Detalle de la ubicación";
+"homeviewcontroller.viewdetails"="Ver detalles";
+"homeviewcontroller.parkduration"="Duración del estacionamiento";
+"homeviewcontroller.durationformat"="%02dd %02dh %02dm";
+"addparkingviewcontroller.title"="Agregar nuevo estacionamiento";
+"addparkingviewcontroller.name"="Nombre del lugar de estacionamiento";
+"addparkingviewcontroller.detail"="Detalle del lugar de estacionamiento";
+"addparkingviewcontroller.detailtitlelabel"="Establecer detalles de la ubicación";
+"addparkingviewcontroller.phototitlelabel"="Agregar foto del lugar de estacionamiento";
+"addparkingviewcontroller.savebutton"="Guardar lugar de estacionamiento";
+"addparkingviewcontroller.warninglabel"="¡Este campo no puede quedar en blanco!";
+"historyviewcontroller.title"="Últimas áreas de estacionamiento";
+"parkdetailviewcontroller.button"="Direcciones";
+"navigationviewcontroller.button"="Terminar";
+
+
+
+
+
+
+
+
+
+
+

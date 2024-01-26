@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "はじめる";
+"welcomeviewcontroller.subtitle" = "もう駐車場を失くすことはありません。";
+"tabbarcontroller.home" = "ホーム";
+"tabbarcontroller.history" = "履歴";
+"homeviewcontroller.title"="ParkEasyへようこそ！";
+"homeviewcontroller.subtitle"="簡単に駐車場を見つけましょう。";
+"homeviewcontroller.newparkingtitle"="新しい駐車場を追加";
+"homeviewcontroller.newparkingsubtitle"= "駐車の履歴を追跡します。";
+"homeviewcontroller.newparkingbutton"="駐車場を追加";
+"homeviewcontroller.lastparked"= "最後に駐車した場所";
+"homeviewcontroller.lastparkedlocation"="場所の名前";
+"homeviewcontroller.lastparkedlocationdetail"="場所の詳細";
+"homeviewcontroller.viewdetails"="詳細を表示";
+"homeviewcontroller.parkduration"="駐車時間";
+"homeviewcontroller.durationformat"="%02d日 %02d時間 %02d分";
+"addparkingviewcontroller.title"="新しい駐車場を追加";
+"addparkingviewcontroller.name"="駐車場の名前";
+"addparkingviewcontroller.detail"="駐車場の詳細";
+"addparkingviewcontroller.detailtitlelabel"="場所の詳細を設定";
+"addparkingviewcontroller.phototitlelabel"="駐車場の写真を追加";
+"addparkingviewcontroller.savebutton"="駐車場を保存";
+"addparkingviewcontroller.warninglabel"="このフィールドは空白にできません！";
+"historyviewcontroller.title"="最新の駐車エリア";
+"parkdetailviewcontroller.button"="道案内";
+"navigationviewcontroller.button"="完了";
+
+
+
+
+
+
+
+
+
+
+
+

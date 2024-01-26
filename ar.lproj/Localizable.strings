@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "ابدأ";
+"welcomeviewcontroller.subtitle" = "لا تفقد مكان وقوف سيارتك مرة أخرى.";
+"tabbarcontroller.home" = "الرئيسية";
+"tabbarcontroller.history" = "التاريخ";
+"homeviewcontroller.title"="مرحبًا بك في بارك إت!";
+"homeviewcontroller.subtitle"="العثور على سيارتك المتوقفة بسهولة.";
+"homeviewcontroller.newparkingtitle"="إضافة موقف جديد للسيارات";
+"homeviewcontroller.newparkingsubtitle"= "تتبع تاريخ وقوف سيارتك.";
+"homeviewcontroller.newparkingbutton"="إضافة موقف";
+"homeviewcontroller.lastparked"= "آخر موقف";
+"homeviewcontroller.lastparkedlocation"="اسم الموقع";
+"homeviewcontroller.lastparkedlocationdetail"="تفاصيل الموقع";
+"homeviewcontroller.viewdetails"="عرض التفاصيل";
+"homeviewcontroller.parkduration"="مدة الوقوف";
+"homeviewcontroller.durationformat"="%02dي %02dس %02dد";
+"addparkingviewcontroller.title"="إضافة وقوف جديد";
+"addparkingviewcontroller.name"="اسم مكان الوقوف";
+"addparkingviewcontroller.detail"="تفاصيل مكان الوقوف";
+"addparkingviewcontroller.detailtitlelabel"="تحديد تفاصيل الموقع";
+"addparkingviewcontroller.phototitlelabel"="إضافة صورة لمكان الوقوف";
+"addparkingviewcontroller.savebutton"="حفظ مكان الوقوف";
+"addparkingviewcontroller.warninglabel"="لا يمكن ترك هذا الحقل فارغًا!";
+"historyviewcontroller.title"="أحدث مناطق الوقوف";
+"parkdetailviewcontroller.button"="الاتجاهات";
+"navigationviewcontroller.button"="إنهاء";
+
+
+
+
+
+
+
+
+
+
+
+

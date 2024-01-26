@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "Inizia";
+"welcomeviewcontroller.subtitle" = "Non perdere mai più il tuo posto auto.";
+"tabbarcontroller.home" = "Home";
+"tabbarcontroller.history" = "Cronologia";
+"homeviewcontroller.title"="Benvenuto su ParkEasy!";
+"homeviewcontroller.subtitle"="Trova facilmente la tua auto parcheggiata.";
+"homeviewcontroller.newparkingtitle"="Aggiungi una nuova posizione di parcheggio";
+"homeviewcontroller.newparkingsubtitle"= "Segui la cronologia dei tuoi parcheggi.";
+"homeviewcontroller.newparkingbutton"="Aggiungi parcheggio";
+"homeviewcontroller.lastparked"= "Ultimo posto parcheggiato";
+"homeviewcontroller.lastparkedlocation"="Nome posizione";
+"homeviewcontroller.lastparkedlocationdetail"="Dettaglio posizione";
+"homeviewcontroller.viewdetails"="Visualizza dettagli";
+"homeviewcontroller.parkduration"="Durata del parcheggio";
+"homeviewcontroller.durationformat"="%02dg %02do %02dm";
+"addparkingviewcontroller.title"="Aggiungi nuovo parcheggio";
+"addparkingviewcontroller.name"="Nome del parcheggio";
+"addparkingviewcontroller.detail"="Dettaglio del parcheggio";
+"addparkingviewcontroller.detailtitlelabel"="Imposta i dettagli della posizione";
+"addparkingviewcontroller.phototitlelabel"="Aggiungi foto del parcheggio";
+"addparkingviewcontroller.savebutton"="Salva posizione di parcheggio";
+"addparkingviewcontroller.warninglabel"="Questo campo non può essere lasciato vuoto!";
+"historyviewcontroller.title"="Ultime zone di parcheggio";
+"parkdetailviewcontroller.button"="Indicazioni";
+"navigationviewcontroller.button"="Fine";
+
+
+
+
+
+
+
+
+
+
+
+

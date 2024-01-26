@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "Başla";
+"welcomeviewcontroller.subtitle" = "Bir daha asla park yerinizi kaybetmeyin.";
+"tabbarcontroller.home" = "Anasayfa";
+"tabbarcontroller.history" = "Geçmiş";
+"homeviewcontroller.title"="ParkEasy'e hoşgeldiniz!";
+"homeviewcontroller.subtitle"="Arabanızı kolaylıkla bulun.";
+"homeviewcontroller.newparkingtitle"="Yeni park yeri ekle";
+"homeviewcontroller.newparkingsubtitle"= "Park geçmişini takip et.";
+"homeviewcontroller.newparkingbutton"="Park yeri ekle";
+"homeviewcontroller.lastparked"= "Son park yeri";
+"homeviewcontroller.lastparkedlocation"="Konum adı";
+"homeviewcontroller.lastparkedlocationdetail"="Konum detayı";
+"homeviewcontroller.viewdetails"="Detay";
+"homeviewcontroller.parkduration"="Park süresi";
+"homeviewcontroller.durationformat"="%02dg %02ds %02dd";
+"addparkingviewcontroller.title"="Yeni park yeri ekle";
+"addparkingviewcontroller.name"="Park yeri adı";
+"addparkingviewcontroller.detail"="Park yeri detay";
+"addparkingviewcontroller.detailtitlelabel"="Konum Ayrıntılarını Ayarla";
+"addparkingviewcontroller.phototitlelabel"="Park Yeri Fotoğrafı Ekle";
+"addparkingviewcontroller.savebutton"="Park yerini kaydet";
+"addparkingviewcontroller.warninglabel"="Bu alan boş bırakılamaz!";
+"historyviewcontroller.title"="Son park yerleri";
+"parkdetailviewcontroller.button"="Yol tarifi";
+"navigationviewcontroller.button"="Bitir";

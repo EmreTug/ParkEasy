@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  ParkEasy
+
+  Created by Emre Tuğ on 12.11.2023.
+  
+*/
+"welcomeviewcontroller.welcomebutton" = "开始";
+"welcomeviewcontroller.subtitle" = "再也不要丢失您的停车位了。";
+"tabbarcontroller.home" = "主页";
+"tabbarcontroller.history" = "历史";
+"homeviewcontroller.title"="欢迎来到ParkEasy！";
+"homeviewcontroller.subtitle"="轻松找到您停放的汽车。";
+"homeviewcontroller.newparkingtitle"="添加新的停车位置";
+"homeviewcontroller.newparkingsubtitle"= "跟踪您的停车历史。";
+"homeviewcontroller.newparkingbutton"="添加停车";
+"homeviewcontroller.lastparked"= "最后停车的地方";
+"homeviewcontroller.lastparkedlocation"="位置名称";
+"homeviewcontroller.lastparkedlocationdetail"="位置详情";
+"homeviewcontroller.viewdetails"="查看详情";
+"homeviewcontroller.parkduration"="停车时长";
+"homeviewcontroller.durationformat"="%02d天 %02d小时 %02d分钟";
+"addparkingviewcontroller.title"="添加新的停车";
+"addparkingviewcontroller.name"="停车位名称";
+"addparkingviewcontroller.detail"="停车位详情";
+"addparkingviewcontroller.detailtitlelabel"="设置位置详情";
+"addparkingviewcontroller.phototitlelabel"="添加停车位照片";
+"addparkingviewcontroller.savebutton"="保存停车位";
+"addparkingviewcontroller.warninglabel"="此字段不能为空！";
+"historyviewcontroller.title"="最新的停车区域";
+"parkdetailviewcontroller.button"="导航";
+"navigationviewcontroller.button"="完成";
+
+
+
+
+
+
+
+
+
+
+
+
